@@ -1,5 +1,5 @@
 # ChessGame
-<img src="img/gamepaly.png" alt="Logo" width="80" height="80">
+<img src="img/gamepaly.png" alt="Logo" width="200" >
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
